@@ -1,0 +1,20 @@
+# Test files
+crawl_test.py
+test_resources.py
+verify_local.py
+E2E_TEST_REPORT.md
+
+# Logs
+*.log
+server.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# OS
+.DS_Store
+Thumbs.db
