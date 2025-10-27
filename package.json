@@ -1,0 +1,8 @@
+{
+  "name": "jashmhtaweb-deployment",
+  "version": "1.0.0",
+  "description": "Static site deployment for jashmhtaweb",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  }
+}
